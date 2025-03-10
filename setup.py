@@ -9,7 +9,7 @@ setup(
     version="1.0",
     description="",
     author="Sberbank AI, Xintao Wang",
-    url='https://github.com/ai-forever/Real-ESRGAN',
+    url='https://github.com/hyperionrock/Real-ESRGAN',
     packages=find_packages(include=['RealESRGAN']),
     install_requires=[
         str(r)
